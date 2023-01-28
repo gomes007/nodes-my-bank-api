@@ -1,0 +1,79 @@
+2023-01-25T18:55:36.869Z [my-bank-api] info: app listening
+2023-01-25T18:56:02.358Z [my-bank-api] info: app listening
+2023-01-25T18:56:07.912Z [my-bank-api] info: app listening
+2023-01-25T18:56:08.656Z [my-bank-api] info: app listening
+2023-01-25T18:56:11.402Z [my-bank-api] info: app listening
+2023-01-25T18:56:12.974Z [my-bank-api] info: app listening
+2023-01-25T18:56:45.442Z [my-bank-api] info: app listening
+2023-01-25T18:56:46.830Z [my-bank-api] info: app listening
+2023-01-25T18:57:09.761Z [my-bank-api] info: app listening
+2023-01-25T18:57:10.931Z [my-bank-api] info: app listening
+2023-01-25T18:57:13.055Z [my-bank-api] info: app listening
+2023-01-25T18:57:13.718Z [my-bank-api] info: app listening
+2023-01-25T18:57:18.249Z [my-bank-api] info: app listening
+2023-01-25T18:57:19.918Z [my-bank-api] info: app listening
+2023-01-25T18:57:20.951Z [my-bank-api] info: app listening
+2023-01-25T18:57:53.834Z [my-bank-api] info: app listening
+2023-01-25T18:58:08.206Z [my-bank-api] info: app listening
+2023-01-25T18:58:09.810Z [my-bank-api] info: app listening
+2023-01-25T18:58:27.366Z [my-bank-api] info: app listening
+2023-01-25T18:58:34.780Z [my-bank-api] info: app listening
+2023-01-25T18:58:37.013Z [my-bank-api] info: app listening
+2023-01-25T18:58:41.359Z [my-bank-api] info: app listening
+2023-01-25T18:58:43.732Z [my-bank-api] info: app listening
+2023-01-25T18:58:46.044Z [my-bank-api] info: app listening
+2023-01-25T18:59:00.325Z [my-bank-api] info: app listening
+2023-01-25T18:59:04.903Z [my-bank-api] info: app listening
+2023-01-25T18:59:45.901Z [my-bank-api] info: app listening and file created
+2023-01-25T19:01:24.296Z [my-bank-api] info: app listening and file created
+2023-01-25T19:04:00.523Z [my-bank-api] info: app listening and file created
+2023-01-25T19:07:01.244Z [my-bank-api] info: app listening and file created
+2023-01-25T19:08:04.062Z [my-bank-api] info: app listening and file created
+2023-01-25T19:08:34.489Z [my-bank-api] info: app listening and file created
+2023-01-25T19:09:41.333Z [my-bank-api] info: app listening and file created
+2023-01-25T19:11:14.329Z [my-bank-api] info: app listening and file created
+2023-01-25T19:13:30.722Z [my-bank-api] info: app listening and file created
+2023-01-25T19:15:45.651Z [my-bank-api] info: app listening and file created
+2023-01-25T19:16:35.264Z [my-bank-api] error: GET /account - ENOENT: no such file or directory, open 'C:\Users\Paulo\Desktop\MBA XP\Node js\my-bank-api\accounts.json'
+2023-01-25T19:26:35.468Z [my-bank-api] error: GET /account - ENOENT: no such file or directory, open 'C:\Users\Paulo\Desktop\MBA XP\Node js\my-bank-api\accounts.json'
+2023-01-25T19:26:45.286Z [my-bank-api] error: GET /account - ENOENT: no such file or directory, open 'C:\Users\Paulo\Desktop\MBA XP\Node js\my-bank-api\accounts.json'
+2023-01-25T19:26:56.756Z [my-bank-api] info: app listening and file created
+2023-01-25T19:27:16.692Z [my-bank-api] info: POST /account - {"id":1,"name":"Salvador","balance":"150"}
+2023-01-25T19:50:13.659Z [my-bank-api] info: app listening
+2023-01-25T19:50:31.044Z [my-bank-api] info: app listening
+2023-01-25T19:50:32.325Z [my-bank-api] info: app listening
+2023-01-25T19:50:33.577Z [my-bank-api] info: app listening
+2023-01-25T19:50:35.813Z [my-bank-api] info: app listening
+2023-01-25T19:50:38.342Z [my-bank-api] info: app listening
+2023-01-25T19:50:39.284Z [my-bank-api] info: app listening
+2023-01-25T19:51:12.913Z [my-bank-api] info: app listening
+2023-01-25T19:51:13.753Z [my-bank-api] info: app listening
+2023-01-25T19:51:16.946Z [my-bank-api] info: app listening
+2023-01-25T19:51:52.902Z [my-bank-api] info: app listening
+2023-01-25T19:51:53.618Z [my-bank-api] info: app listening
+2023-01-25T19:51:56.288Z [my-bank-api] info: app listening
+2023-01-25T19:51:56.983Z [my-bank-api] info: app listening
+2023-01-25T19:53:22.016Z [my-bank-api] info: app listening
+2023-01-25T19:53:45.620Z [my-bank-api] info: app listening
+2023-01-25T19:54:26.705Z [my-bank-api] info: app listening
+2023-01-25T19:54:33.660Z [my-bank-api] info: app listening
+2023-01-25T19:54:36.279Z [my-bank-api] info: app listening
+2023-01-25T19:55:24.905Z [my-bank-api] info: app listening
+2023-01-25T19:55:36.165Z [my-bank-api] info: app listening
+2023-01-25T19:55:38.707Z [my-bank-api] info: app listening
+2023-01-25T19:55:59.117Z [my-bank-api] info: app listening
+2023-01-25T19:56:03.217Z [my-bank-api] info: app listening
+2023-01-25T19:56:10.310Z [my-bank-api] info: app listening
+2023-01-25T19:56:22.283Z [my-bank-api] info: app listening
+2023-01-25T19:56:24.147Z [my-bank-api] info: app listening
+2023-01-25T19:58:15.849Z [my-bank-api] info: app listening
+2023-01-25T20:02:00.905Z [my-bank-api] info: app listening
+2023-01-25T20:02:22.624Z [my-bank-api] info: app listening
+2023-01-25T20:02:23.999Z [my-bank-api] info: app listening
+2023-01-25T20:02:45.097Z [my-bank-api] info: app listening
+2023-01-28T20:37:06.917Z [my-bank-api] info: app listening
+2023-01-28T20:37:20.958Z [my-bank-api] info: POST /account - {"id":2,"name":"Salvador123","balance":"150"}
+2023-01-28T21:24:16.959Z [my-bank-api] info: POST /account - {"id":3,"name":"aaaa","balance":"7"}
+2023-01-28T21:45:07.903Z [my-bank-api] info: POST /account - {"id":4,"name":"salvador","balance":"7"}
+2023-01-28T22:22:00.140Z [my-bank-api] info: POST /account - {"id":5,"name":"aaa","balance":"777"}
+2023-01-28T22:54:46.649Z [my-bank-api] info: app listening and file created
